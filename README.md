@@ -26,7 +26,7 @@ and which the strongest beer from each country found in the data corpus.
 TV series etc available on IMDB. 
 * Each line in a file represents a single movie record containing following 
 fields - movie title, year, imdb rank, rating distribution, total user votes
-* The fields are separated by multiple spaces
+* The fields are separated by multiple spaces.
 * Download URL: ftp://ftp.fu-berlin.de/pub/misc/movies/database/movies.list.gz
 ##ANALYSIS
 * The IMDB job analyzes this data corpus to find the top 100 movies as ranked by users in IMDB.
