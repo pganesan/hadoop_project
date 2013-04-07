@@ -1,0 +1,15 @@
+#Project files
+*.classpath
+*.project
+
+#Binary files
+*.jar
+*.war
+*.ear
+*.class
+
+#Data files
+dataset/imdb/
+
+# Office Temp Files
+~$*
