@@ -14,8 +14,8 @@ Mapper and Reducers for analyzing public data sets - Beer and IMDB movies
 gravity, country/region where the beer originated from and other related information pertaining to beers. 
 * Each line in the file provides information about a single beer. 
 * The various fields in the file were delimited by tab spaces. 
-* Download URL: http://download.freebase.com/datadumps/latest/browse/food/beer.tsv
-###ANALYSIS
+* Download URL: http://download.freebase.com/datadumps/latest/browse/food/beer.tsv.
+##ANALYSIS
 * The Beer map-reduce job analyzes this data to find out which country produces the largest number of beer 
 and which the strongest beer from each country found in the data corpus.
 
